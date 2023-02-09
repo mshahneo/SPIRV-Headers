@@ -1121,6 +1121,7 @@
                     "OptNoneINTEL": 6094,
                     "AtomicFloat16AddEXT": 6095,
                     "DebugInfoModuleINTEL": 6114,
+                    "Bfloat16ConversionINTEL": 6115,
                     "SplitBarrierINTEL": 6141,
                     "FPGAArgumentInterfacesINTEL": 6174,
                     "GroupUniformArithmeticKHR": 6400
@@ -1934,6 +1935,8 @@
                     "OpTypeStructContinuedINTEL": 6090,
                     "OpConstantCompositeContinuedINTEL": 6091,
                     "OpSpecConstantCompositeContinuedINTEL": 6092,
+                    "OpConvertFToBF16INTEL": 6116,
+                    "OpConvertBF16ToFINTEL": 6117,
                     "OpControlBarrierArriveINTEL": 6142,
                     "OpControlBarrierWaitINTEL": 6143,
                     "OpGroupIMulKHR": 6401,
